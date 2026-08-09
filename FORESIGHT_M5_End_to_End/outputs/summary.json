@@ -1,0 +1,16 @@
+{
+  "selected_method": "HistGradientBoosting",
+  "backtest": {
+    "model_wape": 0.2896707753908879,
+    "baseline_wape": 0.3619065299113566,
+    "model_mae": 6.556235501415402,
+    "baseline_mae": 8.191176470588236,
+    "backtest_rows": 2856
+  },
+  "official_future_test_wape": 0.33213719624238447,
+  "series_count": 120,
+  "sales_at_risk_inr": 64998.04453709116,
+  "locked_capital_inr": 95.31616196223051,
+  "reorder_now": 109,
+  "markdown_clear": 0
+}
